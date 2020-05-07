@@ -1,0 +1,46 @@
+
+
+.error {
+  padding: 150px 300px;
+}
+
+#top {
+  font-weight: 200;
+  font-size: 1.6rem;
+  opacity: 0.8;
+}
+
+#para {
+  font-weight: 50;
+  font-size: 1rem;
+  opacity: 0.7;
+}
+
+#list {
+  list-style-type: none;
+  }
+
+  .lists {
+    list-style-type: disc;
+  }
+
+button {
+  background-color: blue;
+  color: #fff;
+  border-radius: 6px;
+  border-outline: none;
+  height: 2rem;
+  width: 4rem;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+
+}
+
+#err {
+  font-size: 0.7rem;
+  font-weight: 0;
+  opacity: 0.5;
+}

@@ -390,10 +390,10 @@ img {
   }
 }
 
-@media(max-height: 650px) {
+@media(max-height: 600px) {
 
   .showcase{
-    height: 80vh;
+    height: 60vh;
   }
 
   .hide-sm {
@@ -401,8 +401,8 @@ img {
   }
 
   .showcase-content {
-    margin-top: 1rem;
-    line-height: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1.5rem;
   }
 
   .showcase-top img {
@@ -412,12 +412,12 @@ img {
   }
 
   .showcase-content h1 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     line-height: 3rem;
   }
 
   .showcase-content p {
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .footer .footer-cols {
@@ -425,19 +425,19 @@ img {
   }
 
   .btn-xl {
-    font-size: 0.6rem;
+    font-size: 1rem;
     padding: 0.7rem 1.2rem;
   }
 
   .text-md {
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .text-lg {
-    font-size: 0.5rem;
+    font-size: 1.3rem;
   }
 
   .text-xl {
-    font-size: 0.7rem;
+    font-size: 1.5rem;
   }
 }
